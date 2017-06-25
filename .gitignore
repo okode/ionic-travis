@@ -1,0 +1,9 @@
+.vscode/
+.sass-cache/
+.tmp/
+node_modules/
+hooks/
+platforms/
+plugins/
+www/
+.DS_Store
