@@ -11,7 +11,7 @@ Supported platforms:
 * iOS
 * Android
 
-## Building iOS
+## Building iOS platform
 
 ```
 $ yarn install
@@ -19,7 +19,7 @@ $ cordova platform add ios --nofetch
 $ ionic cordova build ios --prod --release
 ```
 
-## Building Android
+## Building Android platform
 
 ```
 $ yarn install
